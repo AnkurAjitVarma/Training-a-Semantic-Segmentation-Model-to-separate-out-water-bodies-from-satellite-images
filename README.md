@@ -15,7 +15,7 @@ The order of the folders is:
  - final model
 
 ## Results on Some of the Test Images:
-![](https://github.com/AnkurAjitVarma/Training-a-Semantic-Segmentation-Model-to-Separate-out-Water-Bodies-from-Satellite-Images/blob/main/outputs/Aral Sea 2018.jpg)
+![](https://github.com/AnkurAjitVarma/Training-a-Semantic-Segmentation-Model-to-Separate-out-Water-Bodies-from-Satellite-Images/blob/c93150e3fde39eebf9ef37b28748c8b69e8528af/outputs/Aral%20Sea%202018.jpg)
 ![](https://github.com/AnkurAjitVarma/Training-a-Semantic-Segmentation-Model-to-Separate-out-Water-Bodies-from-Satellite-Images/blob/main/outputs/output_0_15.jpg)
 ![](https://github.com/AnkurAjitVarma/Training-a-Semantic-Segmentation-Model-to-Separate-out-Water-Bodies-from-Satellite-Images/blob/main/outputs/output_0_6.jpg)
 ![](https://github.com/AnkurAjitVarma/Training-a-Semantic-Segmentation-Model-to-Separate-out-Water-Bodies-from-Satellite-Images/blob/main/outputs/output_0_27.jpg)
